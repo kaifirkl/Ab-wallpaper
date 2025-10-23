@@ -1,0 +1,5 @@
+{
+  "name": "AI Wallpaper Generator",
+  "description": "Create stunning, unique wallpapers for your devices by describing what you want to see. This application uses Google's Gemini API to generate high-quality images from your text prompts.",
+  "requestFramePermissions": []
+}
